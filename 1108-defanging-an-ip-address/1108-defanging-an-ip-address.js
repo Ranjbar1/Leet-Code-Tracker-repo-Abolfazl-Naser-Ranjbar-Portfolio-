@@ -6,7 +6,7 @@ var defangIPaddr = function(address) {
     address = address.replaceAll(".","[.]")
     return address
     
-    //replaceAll() is a brand new method introduced in ES2022
+    //replaceAll() is a brand new method introduced in ES2022  ✔✔✔😎🤠
     
     
 };
